@@ -28,7 +28,7 @@
     "jquery": "^3.3.1",
     "jsonwebtoken": "^8.3.0",
     "lodash": "^4.15.0",
-    "node-sass": "^3.11.2",
+    "node-sass": "^4.13.1",
     "normalize": "^0.3.1",
     "react": "^15.3.1",
     "react-bootstrap": "^0.30.6",
